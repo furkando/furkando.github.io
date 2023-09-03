@@ -27,11 +27,11 @@ export default function Home() {
         <link
           rel="icon"
           type="image/x-icon"
-          href="https://furkando.github.io/resume/favicon.ico"
+          href="https://furkando.github.io/favicon.ico"
         />
         <link
           rel="image_src"
-          href="https://furkando.github.io/resume/images/profilePicture.jpg"
+          href="https://furkando.github.io/images/profilePicture.jpg"
         />
         <meta
           name="description"
@@ -47,13 +47,13 @@ export default function Home() {
         <meta property="og:type" content="profile" />
         <meta
           property="og:image"
-          content="https://furkando.github.io/resume/images/profilePicture.jpg"
+          content="https://furkando.github.io/images/profilePicture.jpg"
         />
         <meta property="og:image:width" content="1580" />
         <meta property="og:image:height" content="790" />
         <meta
           name="twitter:image"
-          content="https://furkando.github.io/resume/images/profilePicture.jpg"
+          content="https://furkando.github.io/images/profilePicture.jpg"
         />
       </Head>
       <Modal />

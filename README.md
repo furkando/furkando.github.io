@@ -1,4 +1,4 @@
-# furkando.github.io/resume
+# furkando.github.io
 
 This is a personal website which describes me and includes my reading list.
 

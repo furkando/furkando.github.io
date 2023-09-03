@@ -16,7 +16,7 @@ export const resumeData = {
       zip: "06800",
     },
     website: "https://www.furkando.com",
-    resumedownload: "/resume/CV.pdf",
+    resumedownload: "/CV.pdf",
     social: [
       {
         name: "facebook",
