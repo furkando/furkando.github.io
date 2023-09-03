@@ -8,7 +8,7 @@
     "build": "next build",
     "export": "next export",
     "start": "next start",
-    "predeploy": "next build && next export && touch ./out/.nojekyll && echo \"furkando.com\" > build/CNAME",
+    "predeploy": "next build && next export && touch ./out/.nojekyll && touch ./out/CNAME && echo \"furkando.com\" > ./out/CNAME",
     "deploy": "gh-pages -d out  -t true"
   },
   "dependencies": {
