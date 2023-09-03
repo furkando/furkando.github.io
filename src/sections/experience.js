@@ -21,8 +21,8 @@ export default function Experience({ resumeData }) {
                 <h3>{item.title}</h3>
                 <h4>{item.company}</h4>
                 <ul>
-                  {item.description.map((item) => (
-                    <li>
+                  {item.description.map((item, index) => (
+                    <li key={index}>
                       <span className="colorRed">- </span>
                       <span>{item}</span>
                     </li>
