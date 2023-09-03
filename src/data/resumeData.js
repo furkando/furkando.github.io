@@ -78,7 +78,7 @@ export const resumeData = {
     work: [
       {
         company: "Haystack Analytics",
-        title: "Software Developer",
+        title: "Lead Software Engineer",
         years: "May 2021 - Present",
         description: [
           "Spearheaded the migration and optimization of the entire analytics infrastructure, reducing dashboard load times from CloudFlare timeouts to under ~1 second, enabling efficient data- driven decision-making for engineering leaders.",
@@ -88,7 +88,7 @@ export const resumeData = {
       },
       {
         company: "Bottomless",
-        title: "Software Developer",
+        title: "Software Engineer",
         years: "Dec 2020 - May 2021",
         description: [
           "Led bug resolution and system improvements, enhancing the reliability and efficiency of a smart subscription system.",
@@ -98,7 +98,7 @@ export const resumeData = {
       },
       {
         company: "Neurocess Inc.",
-        title: "Software Developer",
+        title: "Software Engineer",
         years: "July 2019 - Dec 2020",
         description: [
           "As a founding engineer, pioneered the development of a real-time sensor system for injury prevention and training optimization.",
@@ -109,7 +109,7 @@ export const resumeData = {
       },
       {
         company: "Quanimo",
-        title: "Software Developer",
+        title: "Software Engineer",
         years: "May 2019 - July 2019",
         description: [
           "Developed a video platform for medical students and an exam tracking system for primary and mid schools from scratch.",
